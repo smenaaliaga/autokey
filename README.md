@@ -12,9 +12,9 @@
 
 #### 3.1. Download and install Zadig: https://zadig.akeo.ie
 
-#### 3.2. Select USBasp device, select target driver: WinUSB driver and Install Driver
+#### 3.2. Select USBasp device, select WinUSB driver and Install Driver
 
-![image](images\zadig.png)
+<img src="images\zadig.png" alt="zadig"/>
 
 #### 3.3. You can check if the driver has been installed correctly in Device Manager
 
@@ -22,23 +22,23 @@
 
 -> Tools -> Board -> Arduino AVR Boards -> Arduino Leonardo
 
-![image](images\arduinoide-leonardo.png)
+<img src="images\arduinoide-leonardo.png" alt="arduinoide-leonardo"/>
 
 ### 5. Select Programmer: USBasp
 
 -> Tools -> Programmer -> USBasp
 
-![image](images\arduinoide-usbasp.png)
+<img src="images\arduinoide-usbasp.png" alt="arduinoide-usbasp"/>
 
 ### 5. Start burning the bootloader
 
 -> Tools -> Burn Bootloader
 
-![image](images\arduinoide-bootloader.png)
+<img src="images\arduinoide-bootloader.png" alt="arduinoide-bootloader"/>
 
 ### 6. Done!
 
-![image](images\arduinoide-done.png)
+<img src="images\arduinoide-done.png" alt="arduinoide-done"/>
 
 ### References: 
 - https://www.instructables.com/Fixing-Bootloader-on-Arduino-Leonardo-ProMicro-Wit/
